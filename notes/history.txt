@@ -1,0 +1,26 @@
+doors: 36
+2 moved '52
+3 removed '52
+1 added '52
+30 replaced '17
+
+openings: 10
+1 original
+1 removed '17
+1 removed '52
+2 added '52
+6 restyled '52
+
+windows: 25
+3 original
+2 added '52
+1 restyled '52
+15 replaced '96
+3 replaced '98
+
+rooms: 13
+1 added '17
+8 repurposed
+2 divided '17, '52?
+
+

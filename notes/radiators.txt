@@ -1,0 +1,145 @@
+A, B, C
+sides
+1x3	4	9.75
+1x2	4	26.75
+
+A
+fronts
+1x3	4	30.5
+1x2	3	26.75
+1x2	2	18.75
+1x3	1	64
+
+B
+fronts
+1x3	4	28.5
+1x2	3	26.75
+1x2	2	18.75
+1x3	1	60
+
+C
+fronts
+1x3	4	10
+1x2	3	26.75
+1x2	4	24.25
+1x3	1	51.5
+
+D
+sides
+1x3	4	12.75
+1x2	4	38.25
+filler		13.75 x 31.25
+filler		13.75 x 1.5
+
+D
+fronts
+1x3	4	17.5
+1x2	3	38.25
+1x2	2	30.25
+1x3	1	38
+
+E
+sides
+1x3	4	16.75
+1x2	4	38.25
+filler		17.75 x 31.25
+filler		17.75 x 1.5
+
+E
+fronts
+1x3	4	17.5
+1x2	3	38.25
+1x2	2	30.25
+1x3	1	38
+
+tops
+A	13.75 	66
+B	13.75 	62
+C	13.75 	53.5
+D	16.75	40
+E	20.75	42.5
+
+A	1-fr
+B	2-fr
+C	2-bk
+D	entry
+E	lvg rm
+
+38x38x15
+38x38x19
+
+backing
+top		A1, A2: 	
+	24w	12.5
+	24w	12.5
+	16w	12.5 	
+back	A1, A2	
+	24w	26.25
+	24w	26.25
+	16w	26.25
+
+top	B1
+	24w	12.5
+	24w	12.5
+	12w	12.5
+back	B1, B2
+	24w	26.25
+	24w	26.25
+	12w	26.25
+	
+chair rail, top
+	A1, A2
+	13.75	66
+	
+back	C1, C2
+	26.5 	x 	51.5
+
+cane
+A1	9.75		19.25	10.75	20.25	
+4	14.5		19.25	15.5		20.25
+B1	9.75		19.25	10.75	20.25
+4	13.5		19.25	14.5		20.25
+	
+flat wall	
+corbel 1	12	1.5 x 1.5		2
+corbel 2	12	1 1/8 x 3/8	1.5
+corbel 3	12	3/4 x 1/2		1
+
+by frames
+corbel 1	7	1.5 x 1.5		1.5
+corbel 2	7	1 1/8 x 3/8	1.25
+corbel 3	7	3/4 x 1/2		1
+
+corners 	
+corbel 1	8	1.5 x 1.5		1.5
+corbel 2	8	1 1/8 x 3/8	1.125
+corbel 3	8	3/4 x 1/2		1
+corbel 4	4	3/4 x 1/2		.5
+	
+1x4	
+	24.25
+	83.5
+	14.25
+	28.5
+	48.5
+	73.25
+	49.75
+	125
+1x4   same	
+
+3/8 x 1 5/8	13.98
+1x2			4.51
+1.25 x .75		9.99
+
+1x1 cove, 4'	4.99
+3/8 x 1 1/4, 7'	7.50
+2x2, 8'		3.35
+1x4, 8'		8.98
+
+
+	 
+	 Exterior (Siding/Shingle Colors): Jonquil, Knightley Straw, Asian Jute, Citadel Blue, Lexington Blue, Standish Blue, Portsmouth Blue, Jewett White, Plymouth Beige, Yarmouth Oyster, Parsnip, Langdon Dove, Jackson Antique, Phelps Putty, Bayberry Wax, Sandy Bluff, Flaxen Field, Rain Barrel, Nankeen, Winter Meadow, Coastal Sand, Quincy Granite, Vinal Haven, Monument Gray, Fieldstone, Gropius Gray, Polished Pewter
+
+	 Exterior (Trim and Sash Colors): Andover Cream, Jewett White, Plymouth Beige, Wild Oats, Yarmouth Oyster, Parsnip, Jackson Antique, Phelps Putty
+	 
+Note: Shaker Red, Covered Bridge Saxon Blue, Seal Blue, Amish Green, Gedney Green, Pointed Fir, Brattle Spruce, Winter Balsam, Sayward Pine, Vermont Slate are for use on shutters and doors only.	 
